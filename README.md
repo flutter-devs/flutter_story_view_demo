@@ -3,7 +3,7 @@
 A new Flutter application.
 
 # Demo
-<img src="https://user-images.githubusercontent.com/59611415/116695363-2267e480-a9de-11eb-8210-f54ca27aaf40.gif>
+<img src="https://user-images.githubusercontent.com/59611415/116695363-2267e480-a9de-11eb-8210-f54ca27aaf40.gif">
 
 ## Getting Started
 
